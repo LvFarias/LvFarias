@@ -1,5 +1,8 @@
 #### Meus Commits
-![Snake animation](https://github.com/LvFarias/LvFarias/blob/output/github-contribution-grid-snake.svg)
+<div align="left" style="display: flex">
+  <img width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LvFarias&layout=compact&langs_count=6&theme=github_dark"/>
+  <img width="70%" src="https://github.com/LvFarias/LvFarias/blob/output/github-contribution-grid-snake.svg"/>
+</div>
 
 #### Contatos
 [![LinkedIn](https://img.shields.io/static/v1?label&style=for-the-badge&message=Luan%20Vasco&color=0077b5&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/luan-vfarias/)
