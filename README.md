@@ -1,5 +1,7 @@
-#### Contato
+#### Meus Commits
+![Snake animation](https://github.com/LvFarias/LvFarias/blob/output/github-contribution-grid-snake.svg)
 
+#### Contatos
 [![LinkedIn](https://img.shields.io/static/v1?label&style=for-the-badge&message=Luan%20Vasco&color=0077b5&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/luan-vfarias/)
 [![Telefone](https://img.shields.io/static/v1?label&style=for-the-badge&message=(11)%209.5948-5668&color=075e54&logo=whatsapp&logoColor=FFF)](https://api.whatsapp.com/send?phone=5511959485668)
 [![Email](https://img.shields.io/static/v1?label&style=for-the-badge&message=luan.vfarias@gmail.com&color=D44638&logo=gmail&logoColor=FFF)](mailto:luan.vfarias@gmail.com)
