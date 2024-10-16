@@ -1,9 +1,3 @@
-#### Meus Commits
-<div align="left" style="display: flex">
-  <img width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LvFarias&layout=compact&langs_count=6&theme=github_dark"/>
-  <img width="70%" src="https://github.com/LvFarias/LvFarias/blob/output/github-contribution-grid-snake.svg"/>
-</div>
-
 #### Contatos
 [![LinkedIn](https://img.shields.io/static/v1?label&style=for-the-badge&message=Luan%20Vasco&color=0077b5&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/luan-vfarias/)
 [![Telefone](https://img.shields.io/static/v1?label&style=for-the-badge&message=(11)%209.5948-5668&color=075e54&logo=whatsapp&logoColor=FFF)](https://api.whatsapp.com/send?phone=5511959485668)
@@ -109,4 +103,3 @@
 #### Idiomas
 ![Inglês](https://img.shields.io/static/v1?label=Inglês&message=Basico&color=b53431)
 ![Japonês](https://img.shields.io/static/v1?label=Japonês&message=Estudando&color=bf3628)
-![Francês](https://img.shields.io/static/v1?label=Japonês&message=Estudando&color=bf3628)
